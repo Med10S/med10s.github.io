@@ -11,4 +11,5 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+# Use wdm only on Windows
+# gem 'wdm', '~> 0.1.1', platforms: [:mswin, :mingw, :x64_mingw]

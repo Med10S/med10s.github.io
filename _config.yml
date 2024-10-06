@@ -94,7 +94,7 @@ theme_mode:  #[light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+img_cdn:  
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://media.licdn.com/dms/image/v2/D4E03AQFJ2pCwjW1gqg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700773629512?e=1733961600&v=beta&t=sDosRw2t3ibVXRrMX8uqFqY5YbILwtt0FvQ1wkPh6uk

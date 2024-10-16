@@ -1,0 +1,22 @@
+<div class="skills-container">
+    {% assign categories_with_skills = skills | strip| split: ";" %}  
+    
+    {% for category_with_skills in categories_with_skills %}
+        {% assign category_parts = category_with_skills | split: ">" %}
+        {% assign category = category_parts[0] | strip %}  
+        {% assign skills_list = category_parts[1] | strip | split: "," %}
+        
+        <div class="skills-category">
+            <h3>{{ category }}</h3>
+            <div class="skills-column">
+                {% for skill in skills_list %}
+                    {% assign skill_parts = skill | split: "=" %}
+                    <div class="skill-item">
+                        <img src="{{ skill_parts[1] }}" alt="{{ skill_parts[0] | strip }} Logo">
+                        <span>{{ skill_parts[0] | strip }}</span>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+</div>

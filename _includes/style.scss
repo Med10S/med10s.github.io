@@ -1,0 +1,96 @@
+<style>
+:root {
+    --background-color-light: #f9f9f9;
+    --background-color-dark: #333;
+    --text-color-light: #000;
+    --text-color-dark: #f9f9f9;
+    --border-color-light: #808080;
+    --border-color-dark: #666;
+    --category-background-light: #fff;
+    --category-background-dark: #444;
+}
+
+/* Styles par défaut (clair) */
+
+
+.skills-container {
+    flex-wrap: wrap; /* Permet aux éléments de passer à la ligne si l'espace manque */
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border: 2px solid var(--border-color-light);
+    border-radius: 10px;
+    background-color: background-color;
+}
+
+.skills-category {
+    flex: 1;
+    margin: 10px 10px;
+    padding: 20px;
+    border: 2px solid var(--border-color-light);
+    border-radius: 10px;
+    background-color: background-color;
+    min-width: 200px; /* Définit une largeur minimale pour chaque catégorie */
+}
+
+.skills-category h3 {
+    text-align: center;
+    color: background-color;
+}
+
+.skills-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.skill-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 5px 10px;
+    border: 1px solid var(--border-color-light);
+    border-radius: 5px;
+    
+}
+
+
+.skill-item img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
+
+.skill-item span {
+    color: background-color; /* Texte en noir */
+}
+
+/* Styles pour le thème sombre */
+body.dark-theme {
+    background-color: background-color;
+    color: background-color;
+}
+
+.skills-container.dark-theme {
+    border-color: background-color;
+    background-color: background-color;
+}
+
+.skills-category.dark-theme {
+    border-color: background-color;
+    background-color: background-color;
+}
+
+.skills-category h3.dark-theme {
+    color: background-color; 
+}
+
+.skill-item.dark-theme {
+    border-color: background-color;
+    background-color: background-color;
+}
+
+.skill-item span.dark-theme {
+    color: background-color; 
+}
+
+</style>

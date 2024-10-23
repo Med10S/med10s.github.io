@@ -1,8 +1,8 @@
 ---
-title: "Les fondamentaux de Linux"
+title: "Les fondamentaux de Linux 1"
 author: yassine
 categories: [linux]
-tags: [RÉSEAUX,linux]
+tags: [linux]
 render_with_liquid: false
 img_path: /images/linux/
 comments: true

@@ -21,7 +21,6 @@ La transformation numérique globale, stimulée par l'adoption massive des techn
 
 Dans ce contexte, les cyberattaques se sont diversifiées et leur nombre ne cesse d'augmenter. En 2024, les cybermenaces se sont fortement professionnalisées, s'organisant autour de véritables entreprises du crime cybernétique. Voici les principales formes de cyberattaques qui menacent nos systèmes :
 
-![Desktop View](/images/secu/Phishing.png){:.w-50 .right }
 
 - **Le Phishing** : Il s’agit d'une technique utilisée par les attaquants pour inciter les utilisateurs à divulguer des informations sensibles, comme leurs identifiants ou leurs coordonnées bancaires, via des e-mails frauduleux, des messages SMS, ou des sites web falsifiés. Bien que ce type d'attaque existe depuis longtemps, les méthodes sont devenues plus complexes, avec des e-mails de phishing de plus en plus convaincants.
 

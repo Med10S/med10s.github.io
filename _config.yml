@@ -28,8 +28,7 @@ url: "https://med10s.github.io"
 github:
   username: Med10S # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+
 
 social:
   # Change to your full name.
@@ -98,7 +97,7 @@ cdn:
 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D4E03AQFJ2pCwjW1gqg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700773629512?e=1733961600&v=beta&t=sDosRw2t3ibVXRrMX8uqFqY5YbILwtt0FvQ1wkPh6uk
+avatar: https://media.licdn.com/dms/image/v2/D4D03AQGuriCDCxgtUw/profile-displayphoto-shrink_200_200/B4DZOQuMi5HgAc-/0/1733299863475?e=1739404800&v=beta&t=6YKZaTS3L3K8uzMhqvlPTQFQt1lf7MkK5rD7UlLTjJw
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

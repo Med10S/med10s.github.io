@@ -97,8 +97,7 @@ cdn:
 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D4D03AQGuriCDCxgtUw/profile-displayphoto-shrink_200_200/B4DZOQuMi5HgAc-/0/1733299863475?e=1739404800&v=beta&t=6YKZaTS3L3K8uzMhqvlPTQFQt1lf7MkK5rD7UlLTjJw
-
+avatar: https://media.licdn.com/dms/image/v2/D4E03AQH3B4m8rbJwHg/profile-displayphoto-shrink_200_200/B4EZPbwlX1GYAY-/0/1734558771255?e=1744848000&v=beta&t=53MXC1-hLely9dxms4uDF1Bvhx3L4-EZXU6fRb6yhmE
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources

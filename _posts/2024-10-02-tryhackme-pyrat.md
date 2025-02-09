@@ -13,6 +13,7 @@ image:
 
 [![Tryhackme Room Link]( /images/tryhackme_pyrat/room_card.webp){: width="300" height="300" .shadow}](https://tryhackme.com/r/room/pyrat){: .center }
 
+
 ## Initial Enumeration
 
 ### Nmap Scan

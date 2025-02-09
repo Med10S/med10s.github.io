@@ -92,7 +92,6 @@ public class LogGenerator {
         for (int i = 0; i < 500; i++) {
             String userID = generateUserID();
             String timestamp = generateTimestampBetween9and16();
-            // Vérifier l'unicité des logs
                 ThreadContext.put("userID", userID);
                 ThreadContext.put("timestamp", timestamp);
                 logger.info("Connexion_réussie");

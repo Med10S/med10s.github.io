@@ -55,7 +55,7 @@ Avant de passer à la pratique, il est essentiel de **maîtriser la théorie** d
   | GNS3                   | Linux                  | [Télécharger](https://docs.gns3.com/docs/getting-started/installationlinux){:target="_blank"}    |
   
   |----------|---------------|----------------------------------------------------------------------------------------|
-  | GNS3 VM  | Documentation | [Télécharger](https://docs.gns3.com/docs/getting-started/installation/download-gns3-vm){:target="_blank"}|
+  | GNS3 VM  | Documentation | [Visiter](https://docs.gns3.com/docs/getting-started/installation/download-gns3-vm){:target="_blank"}|
   
   - GNS3 nécessite **VirtualBox** ou **VMware** pour exécuter les machines virtuelles (GNS3 VM).
   - Une fois tout installé, nous vérifierons que vous avez bien accès à GNS3 et GNS3 VM.

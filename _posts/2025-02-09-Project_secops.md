@@ -50,7 +50,7 @@ Avant de passer à la pratique, il est essentiel de **maîtriser la théorie** d
 
   | Besoin                 | Système d'exploitation | Lien de téléchargement                                                         |
   |------------------------|------------------------|--------------------------------------------------------------------------------|
-  | GNS3                   | Windows                | [Télécharger](https://docs.gns3.com/docs/getting-started/installation/windows){:target="_blank"} |
+  | GNS3                   | Windows                | [Télécharger](https://docs.gns3.com/docs/getting-started/installation/windows/#download-the-gns3-all-in-one-installer){:target="_blank"} |
   | GNS3                   | macOS                  | [Télécharger](https://docs.gns3.com/docs/getting-started/installationmac){:target="_blank"}      |
   | GNS3                   | Linux                  | [Télécharger](https://docs.gns3.com/docs/getting-started/installationlinux){:target="_blank"}    |
   

@@ -195,7 +195,7 @@ ensaf-academia4/
 2.  Obtain your Supabase project URL and `anon` key from your Supabase project settings (API section).
 3.  Add the following variables to `.env.local`:
 
-    ```env
+    ```bash
     # Supabase
      DATABASE_URL= ##############
      SUPABASE_URL=##############

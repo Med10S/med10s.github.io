@@ -4,15 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello,
+Bonjour, Hello, مرحبا
 
-I'm Mohammed Sbihi, a passionate individual obsessed with cybersecurity. Currently in my 4th year of engineering studies at ENSAF, I am dedicated to honing my skills in the ever-evolving field of cybersecurity. My journey involves exploring platforms like TryHackMe, Hack The Box, and participating in challenges like picoCTF to enhance my expertise.
+Je suis Mohammed Sbihi , étudiant en 5ᵉ année d’ingénierie des Télécommunications et Réseaux à l’ENSAF de Fès , avec une spécialisation en cybersécurité et en développement web full-stack .
 
-Simultaneously, I wear the hat of a junior Android application developer, proficient in Java for native development and Flutter for cross-platform applications. Combining my cybersecurity knowledge with my development skills, I strive to create secure and robust mobile applications.
+Passionné par les technologies modernes, je me forme et développe des applications sécurisées, performantes et évolutives , en utilisant des stacks comme Next.js, Node.js, TypeScript, Supabase , ainsi que Flutter pour les solutions mobiles.
 
-Feel free to explore my portfolio to learn more about my projects and the exciting world where cybersecurity and mobile development intersect.
-
-Let's connect and explore the possibilities at the intersection of cybersecurity and cutting-edge technology!
+Mon objectif ? Allier sécurité informatique et développement logiciel pour créer des systèmes robustes et fiables, tout en explorant les nouvelles tendances du web , de l’IA et de la cybersécurité .
 
 # Skills
    
@@ -23,7 +21,8 @@ FrontEnd>
     HTML=/images/about/html-logo.png,
     CSS=/images/about/css-logo.png,
     Dart=" | append: link | append: "dart/dart-original.svg,    
-    JavaScript=/images/about/js-logo.png;
+    JavaScript=/images/about/js-logo.png,
+    Next.js=" | append: link | append: "nextjs/nextjs-original.svg;
 BackEnd>
     Python=" | append: link | append: "python/python-original.svg,
     PHP=" | append: link | append: "php/php-original.svg,
@@ -41,6 +40,7 @@ Autres>
 Base de données>
     MySQL=" | append: link | append: "mysql/mysql-original.svg,
     Oracle=" | append: link | append: "oracle/oracle-original.svg;
+
 " %}
    
 {% include skills.html  %}

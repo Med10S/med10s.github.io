@@ -1,7 +1,6 @@
 ---
 title: "Dockerfile"
 date: 2025-02-26
-hidden: true 
 categories: [blog]
 img_path: /images/docker/
 image:

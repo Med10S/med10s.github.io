@@ -2,7 +2,6 @@
 title: "Introduction à l'Écosystème Docker"
 date: 2025-02-26
 categories: [blog]
-hidden: true 
 img_path: /images/docker/
 image:
   path:  /images/docker/home.webp

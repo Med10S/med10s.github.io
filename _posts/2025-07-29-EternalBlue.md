@@ -308,4 +308,4 @@ EternalBlue est une exploitation de corruption mémoire dans le driver SMB de Wi
 L'attaque permet l'exécution de code arbitraire en mode noyau, qui injecte un payload dans un processus utilisateur, donnant un accès SYSTEM à l'attaquant.
 
 ---
-*Dernière mise à jour par imi-SB le 2025-07-29 19:18 UTC*
+*Dernière mise à jour par Sbihi_Mohammed le 2025-07-29 19:18 UTC*

@@ -1,3 +1,16 @@
+---
+title: "EternalBlue"
+author: med
+categories: [cybersécurité]
+tags: [EternalBlue , cybersécurité, Wind7 ]
+render_with_liquid: false
+math: true
+
+img_path: /images/eternalblue/
+image:
+  path:  /images/eternalblue/petya1.webp
+---
+
 # 📖 Guide Complet sur l'Exploit EternalBlue
 
 Ce document détaille le fonctionnement de l'exploit EternalBlue, depuis les concepts fondamentaux jusqu'à l'exécution de code à distance, en s'appuyant sur l'implémentation de Metasploit.  
@@ -235,7 +248,7 @@ En résumé, l'exploit est une chaîne d'événements brillamment orchestrée :
 
 ---
 
-## **Partie 4 : Mode Professionnel & Analyse Technique**
+## **Partie 4 : Analyse Technique**
 
 À présent, nous quittons l'analogie pour détailler précisément le fonctionnement technique.
 
